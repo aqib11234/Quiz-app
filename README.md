@@ -35,16 +35,17 @@
 <h2>Installation</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/yourusername/quiz-app.git</code></pre>
+    <pre><code>git clone https://github.com/aqib11234/quiz-app.git</code></pre>
   </li>
   <li>Open the project in Android Studio.</li>
   <li>Build and run the app on an Android device or emulator.</li>
 </ol>
 
 <h2>Screenshots</h2>
-<p>(![WhatsApp Image 2024-09-08 at 9 02 39 PM](https://github.com/user-attachments/assets/6575e06d-fe5b-4211-8e41-7b92db11974f)
-![WhatsApp Image 2024-09-08 at 9 02 39 PM (1)](https://github.com/user-attachments/assets/5d10390e-9df0-4f63-aecb-9126c9e73b21)
-![WhatsApp Image 2024-09-08 at 9 02 37 PM](https://github.com/user-attachments/assets/270c2728-55a0-4891-b3b9-9bdad50d1643)
+<p>(![3](https://github.com/user-attachments/assets/bcba1af5-cab8-4d60-9ee4-182acb99c410)
+![2](https://github.com/user-attachments/assets/76409d28-a64d-49f1-8d82-51f5217e266f)
+![1](https://github.com/user-attachments/assets/fa364467-ebf6-4e4a-8f62-9cd131c6ed0b)
+
 )</p>
 
 
